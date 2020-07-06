@@ -1,0 +1,5 @@
+void ft_print_alphabet (void) 
+ {
+char d = "abcdefghigqklmnopqrstuvwxyz"; 
+write(1 , &d , 26);
+ }
